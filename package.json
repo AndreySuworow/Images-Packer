@@ -1,0 +1,16 @@
+{
+  "name": "images-packer",
+  "version": "0.1.3-alpha6",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "Andrey Suvorov",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}
